@@ -1,9 +1,7 @@
 C:\Users\cyborbob\Documents\GitHub\Plato\PlatoReasoningEngine\Control\bin\Debug\Control.dll
 C:\Users\cyborbob\Documents\GitHub\Plato\PlatoReasoningEngine\Control\bin\Debug\Control.pdb
 C:\Users\cyborbob\Documents\GitHub\Plato\PlatoReasoningEngine\Control\bin\Debug\CommonLib.dll
-C:\Users\cyborbob\Documents\GitHub\Plato\PlatoReasoningEngine\Control\bin\Debug\Model.dll
 C:\Users\cyborbob\Documents\GitHub\Plato\PlatoReasoningEngine\Control\bin\Debug\CommonLib.pdb
-C:\Users\cyborbob\Documents\GitHub\Plato\PlatoReasoningEngine\Control\bin\Debug\Model.pdb
 C:\Users\cyborbob\Documents\GitHub\Plato\PlatoReasoningEngine\Control\obj\Debug\Control.csprojResolveAssemblyReference.cache
 C:\Users\cyborbob\Documents\GitHub\Plato\PlatoReasoningEngine\Control\obj\Debug\Control.dll
 C:\Users\cyborbob\Documents\GitHub\Plato\PlatoReasoningEngine\Control\obj\Debug\Control.pdb

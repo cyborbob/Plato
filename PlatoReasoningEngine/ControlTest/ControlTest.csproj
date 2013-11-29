@@ -3,11 +3,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{57C80D94-544D-464C-B794-058349C7D510}</ProjectGuid>
+    <ProjectGuid>{F3ED53C1-D3D6-45E5-ACC0-3B17C6BCBE58}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>EngineTest</RootNamespace>
-    <AssemblyName>EngineTest</AssemblyName>
+    <RootNamespace>ControlTest</RootNamespace>
+    <AssemblyName>ControlTest</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>

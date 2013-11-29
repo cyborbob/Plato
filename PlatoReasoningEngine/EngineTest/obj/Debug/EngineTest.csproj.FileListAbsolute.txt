@@ -3,9 +3,7 @@ C:\Users\cyborbob\Documents\GitHub\Plato\PlatoReasoningEngine\EngineTest\bin\Deb
 C:\Users\cyborbob\Documents\GitHub\Plato\PlatoReasoningEngine\EngineTest\bin\Debug\EngineTest.pdb
 C:\Users\cyborbob\Documents\GitHub\Plato\PlatoReasoningEngine\EngineTest\bin\Debug\CommonLib.dll
 C:\Users\cyborbob\Documents\GitHub\Plato\PlatoReasoningEngine\EngineTest\bin\Debug\Control.dll
-C:\Users\cyborbob\Documents\GitHub\Plato\PlatoReasoningEngine\EngineTest\bin\Debug\Model.dll
 C:\Users\cyborbob\Documents\GitHub\Plato\PlatoReasoningEngine\EngineTest\bin\Debug\CommonLib.pdb
 C:\Users\cyborbob\Documents\GitHub\Plato\PlatoReasoningEngine\EngineTest\bin\Debug\Control.pdb
-C:\Users\cyborbob\Documents\GitHub\Plato\PlatoReasoningEngine\EngineTest\bin\Debug\Model.pdb
 C:\Users\cyborbob\Documents\GitHub\Plato\PlatoReasoningEngine\EngineTest\obj\Debug\EngineTest.dll
 C:\Users\cyborbob\Documents\GitHub\Plato\PlatoReasoningEngine\EngineTest\obj\Debug\EngineTest.pdb

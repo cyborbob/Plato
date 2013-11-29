@@ -11,13 +11,15 @@ namespace EngineTest
 
 
         [TestInitialize]
-        public void Initializer() {
+        public void Initializer()
+        {
 
 
         }
 
         [TestCleanup]
-        public void Cleaner() {
+        public void Cleaner()
+        {
 
 
         }
@@ -26,13 +28,13 @@ namespace EngineTest
 
         [TestMethod]
         public void Templete_StateUnderTest_ExpectedOutcome()
-        {    
+        {
             // Arrange.
-            
+
             // Act.
-            
+
             // Assert.
-                
+
         }
 
 
