@@ -50,7 +50,6 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="CommandInterpreterTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -58,9 +57,9 @@
       <Project>{afc5d06d-4694-484a-a0b6-5c6c3fbb0756}</Project>
       <Name>CommonLib</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Control\Control.csproj">
-      <Project>{f6964fe5-0263-4ac0-849c-458a10ab0839}</Project>
-      <Name>Control</Name>
+    <ProjectReference Include="..\Engine\Engine.csproj">
+      <Project>{5b9fb1c8-f041-4128-9116-f0be61b17049}</Project>
+      <Name>Engine</Name>
     </ProjectReference>
   </ItemGroup>
   <Choose>

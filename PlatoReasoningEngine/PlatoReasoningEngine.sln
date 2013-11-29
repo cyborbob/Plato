@@ -4,12 +4,18 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLI", "CLI\CLI.csproj", "{034A5E3B-E63E-4BDE-991F-78511794E343}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Control", "Control\Control.csproj", "{F6964FE5-0263-4AC0-849C-458A10AB0839}"
+	ProjectSection(ProjectDependencies) = postProject
+		{5B9FB1C8-F041-4128-9116-F0BE61B17049} = {5B9FB1C8-F041-4128-9116-F0BE61B17049}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonLib", "CommonLib\CommonLib.csproj", "{AFC5D06D-4694-484A-A0B6-5C6C3FBB0756}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EngineTest", "EngineTest\EngineTest.csproj", "{57C80D94-544D-464C-B794-058349C7D510}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Engine", "Engine\Engine.csproj", "{5B9FB1C8-F041-4128-9116-F0BE61B17049}"
+	ProjectSection(ProjectDependencies) = postProject
+		{AFC5D06D-4694-484A-A0B6-5C6C3FBB0756} = {AFC5D06D-4694-484A-A0B6-5C6C3FBB0756}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlTest", "ControlTest\ControlTest.csproj", "{F3ED53C1-D3D6-45E5-ACC0-3B17C6BCBE58}"
 EndProject
