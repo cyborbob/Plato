@@ -1,0 +1,5 @@
+C:\Users\cyborbob\Documents\GitHub\Plato\PlatoReasoningEngine\CommonLib\bin\Debug\CommonLib.dll
+C:\Users\cyborbob\Documents\GitHub\Plato\PlatoReasoningEngine\CommonLib\bin\Debug\CommonLib.pdb
+C:\Users\cyborbob\Documents\GitHub\Plato\PlatoReasoningEngine\CommonLib\obj\Debug\CommonLib.csprojResolveAssemblyReference.cache
+C:\Users\cyborbob\Documents\GitHub\Plato\PlatoReasoningEngine\CommonLib\obj\Debug\CommonLib.dll
+C:\Users\cyborbob\Documents\GitHub\Plato\PlatoReasoningEngine\CommonLib\obj\Debug\CommonLib.pdb

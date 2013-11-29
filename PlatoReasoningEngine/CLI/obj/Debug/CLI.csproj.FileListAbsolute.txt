@@ -1,1 +1,10 @@
 C:\Users\cyborbob\Documents\GitHub\Plato\PlatoReasoningEngine\CLI\bin\Debug\CLI.exe.config
+C:\Users\cyborbob\Documents\GitHub\Plato\PlatoReasoningEngine\CLI\bin\Debug\CLI.exe
+C:\Users\cyborbob\Documents\GitHub\Plato\PlatoReasoningEngine\CLI\bin\Debug\CLI.pdb
+C:\Users\cyborbob\Documents\GitHub\Plato\PlatoReasoningEngine\CLI\bin\Debug\CommonLib.dll
+C:\Users\cyborbob\Documents\GitHub\Plato\PlatoReasoningEngine\CLI\bin\Debug\Control.dll
+C:\Users\cyborbob\Documents\GitHub\Plato\PlatoReasoningEngine\CLI\bin\Debug\CommonLib.pdb
+C:\Users\cyborbob\Documents\GitHub\Plato\PlatoReasoningEngine\CLI\bin\Debug\Control.pdb
+C:\Users\cyborbob\Documents\GitHub\Plato\PlatoReasoningEngine\CLI\obj\Debug\CLI.csprojResolveAssemblyReference.cache
+C:\Users\cyborbob\Documents\GitHub\Plato\PlatoReasoningEngine\CLI\obj\Debug\CLI.exe
+C:\Users\cyborbob\Documents\GitHub\Plato\PlatoReasoningEngine\CLI\obj\Debug\CLI.pdb
