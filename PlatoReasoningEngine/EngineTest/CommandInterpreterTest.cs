@@ -1,11 +1,26 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using Control;
 
 namespace EngineTest
 {
     [TestClass]
     public class CommandInterpreterTest
     {
+        private CommandInterpreter interpreter;
+
+
+        [TestInitialize]
+        public void Initializer() {
+
+
+        }
+
+        [TestCleanup]
+        public void Cleaner() {
+
+
+        }
 
 
 
@@ -21,6 +36,21 @@ namespace EngineTest
         }
 
 
+
+
+        [TestMethod]
+        public void AddRule_SystemReadyAndAble_RuleIsStored()
+        {
+            // Arrange.
+
+
+
+
+            // Act.
+
+            // Assert.
+
+        }
 
 
 
